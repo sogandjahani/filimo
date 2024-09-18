@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "سریال 1",
+        "image": "series1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "سریال 2",
+        "image": "series2.jpg"
+    }
+]

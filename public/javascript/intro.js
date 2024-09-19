@@ -4,7 +4,7 @@
     
     async function fetchImages() {
         try {
-            const response = await fetch('../../json/db.json');
+            const response = await fetch('https://amyrali18.github.io/filimo-api/bg.json');
             const images = await response.json();
             return images;
         } catch (error) {
